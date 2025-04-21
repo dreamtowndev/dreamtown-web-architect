@@ -8,7 +8,7 @@ const chairman = {
   name: "Bhesh Bahadur Basnet (Rajendra)",
   position: "Chairman",
   photo:
-    "public/img/bhesh-basnet.jpg", // User-uploaded image for SEO
+    "/img/bhesh-basnet.jpg", // User-uploaded image for SEO
   bio:
     "As the visionary Chairman of Dream Town Developers, Bhesh Bahadur Basnet (Rajendra) leads the company with a focus on integrity, excellence, and transformative growth, guiding our team to set new benchmarks in Nepal’s construction industry."
 };
@@ -17,109 +17,109 @@ const teamMembers = [
   {
     name: "Khil K.C. (Pradip)",
     position: "Account & Finance Manager",
-    photo: "public/img/khil-kc (pradip).jpg",
+    photo: "/img/khil-kc (pradip).jpg",
     bio: "Expert in managing finances and accounts, ensuring transparency and accuracy for all projects."
   },
   {
     name: "Manish Kumar Banerjee",
     position: "Civil Engineer",
-    photo: "public/img/manish-Kumar-banerjee.jpg",
+    photo: "/img/manish-Kumar-banerjee.jpg",
     bio: "Dedicated civil engineer responsible for robust project execution and technical oversight."
   },
   {
     name: "Noorja Joshi",
     position: "Civil Engineer",
-    photo: "public/img/noorja-joshi.jpg",
+    photo: "/img/noorja-joshi.jpg",
     bio: "Focused on blending efficiency and sustainability across all engineering projects."
   },
   {
     name: "Santosh Paudel",
     position: "Civil Engineer",
-    photo: "/img/",
+    photo: "/img/santosh-paudel.jpg",
     bio: "Committed to excellence in civil works and on-site coordination."
   },
   {
     name: "Pratima Dangoriya",
     position: "Civil Engineer",
-    photo: "public/img/santosh-paudel.jpg",
+    photo: "/img/santosh-paudel.jpg",
     bio: "Bringing expertise to structural planning and project management."
   },
   {
     name: "Ullash Ashish Koju",
     position: "Project Manager",
-    photo: "public/img/ullash-ashish-koju.jpg",
+    photo: "/img/ullash-ashish-koju.jpg",
     bio: "Managing large-scale projects with a focus on timely delivery and team synergy."
   },
   {
     name: "Manoj Kumar Yadav",
     position: "Project In Charge",
-    photo: "public/img/manoj-kumar -yadav.jpg",
+    photo: "/img/manoj-kumar -yadav.jpg",
     bio: "Oversees all aspects of projects to ensure standards and deadlines are met."
   },
   {
     name: "Dipisha Chettri",
     position: "Civil Engineer",
-    photo: "public/img/dipisha-chettri.jpg",
+    photo: "/img/dipisha-chettri.jpg",
     bio: "Ensuring structural stability and quality at every stage of construction."
   },
   {
     name: "Anil Devkota",
     position: "Senior Lab Technician",
-    photo: "public/img/anil-devkota.jpg",
+    photo: "/img/anil-devkota.jpg",
     bio: "Ensures material testing and analysis meet strict quality requirements."
   },
   {
     name: "Ashish Puri",
     position: "Electrical Overseer",
-    photo: "public/img/ashish-puri.jpg",
+    photo: "/img/ashish-puri.jpg",
     bio: "Expertly manages electrical installations and mechanical systems."
   },
   {
     name: "Bishal Khadgi",
     position: "Vehicle and Equipment In-Charge",
-    photo: "public/img/bishal-khadgi.jpg",
+    photo: "/img/bishal-khadgi.jpg",
     bio: "Keeps all project vehicles and equipment in optimal working order."
   },
   {
     name: "Ramchandra Gautam",
     position: "Procurement In Charge",
-    photo: "public/img/ramchandra -gautam.jpg",
+    photo: "/img/ramchandra -gautam.jpg",
     bio: "Leads procurement logistics, securing high-quality materials for projects."
   },
   {
     name: "Nagendra Kurmi",
     position: "Surveyor",
-    photo: "public/img/nagendra-kurmi.jpg",
+    photo: "/img/nagendra-kurmi.jpg",
     bio: "Responsible for land surveying and accurate project measurements."
   },
   {
     name: "Aishwarya Gurung",
     position: "Office Admin",
-    photo: "/lovable-uploads/2ab193c7-3ce3-4da1-b42c-e7ee563cf245.png",
+    photo: "/img/aishwarya-gurung.jpg",
     bio: "Ensures smooth administrative operations and efficient office management."
   },
   {
     name: "Pabitra Giri",
     position: "Accountant",
-    photo: "public/img/aishwarya-gurung.jpg",
+    photo: "/img/pabitra.jpg",
     bio: "Maintains financial records and assists with budget planning."
   },
   {
     name: "Rojina Raut",
     position: "Accountant",
-    photo: "public/img/rojina.jpg",
+    photo: "/img/rojina.jpg",
     bio: "Handles accounts, payroll, and vendor management."
   },
   {
     name: "Karun Karki",
     position: "",
-    photo: "public/img/karun.jpg",
+    photo: "/img/karun.jpg",
     bio: ""
   },
   {
     name: "Nawadeep Karki",
     position: "",
-    photo: "public/img/nawadeep.jpg",
+    photo: "/img/nawadeep.jpg",
     bio: ""
   }
 ];
