@@ -8,7 +8,7 @@ const chairman = {
   name: "Bhesh Bahadur Basnet (Rajendra)",
   position: "Chairman",
   photo:
-    "/lovable-uploads/d3808885-fa46-43c7-9351-6d94d8a6b8dd.png", // User-uploaded image for SEO
+    "public/img/bhesh-basnet.jpg", // User-uploaded image for SEO
   bio:
     "As the visionary Chairman of Dream Town Developers, Bhesh Bahadur Basnet (Rajendra) leads the company with a focus on integrity, excellence, and transformative growth, guiding our team to set new benchmarks in Nepal’s construction industry."
 };
@@ -17,79 +17,79 @@ const teamMembers = [
   {
     name: "Khil K.C. (Pradip)",
     position: "Account & Finance Manager",
-    photo: "/lovable-uploads/35060a81-2399-4ddc-85cd-c88e988e72aa.png",
+    photo: "public/img/khil-kc (pradip).jpg",
     bio: "Expert in managing finances and accounts, ensuring transparency and accuracy for all projects."
   },
   {
     name: "Manish Kumar Banerjee",
     position: "Civil Engineer",
-    photo: "/lovable-uploads/e4f92905-ce67-4bfe-b5f2-14e83bd0d8be.png",
+    photo: "public/img/manish-Kumar-banerjee.jpg",
     bio: "Dedicated civil engineer responsible for robust project execution and technical oversight."
   },
   {
     name: "Noorja Joshi",
     position: "Civil Engineer",
-    photo: "/lovable-uploads/e4f92905-ce67-4bfe-b5f2-14e83bd0d8be.png",
+    photo: "public/img/noorja-joshi.jpg",
     bio: "Focused on blending efficiency and sustainability across all engineering projects."
   },
   {
     name: "Santosh Paudel",
     position: "Civil Engineer",
-    photo: "/lovable-uploads/e4f92905-ce67-4bfe-b5f2-14e83bd0d8be.png",
+    photo: "/img/",
     bio: "Committed to excellence in civil works and on-site coordination."
   },
   {
     name: "Pratima Dangoriya",
     position: "Civil Engineer",
-    photo: "/lovable-uploads/ebb82301-a450-4503-87d6-c4dfc3424011.png",
+    photo: "public/img/santosh-paudel.jpg",
     bio: "Bringing expertise to structural planning and project management."
   },
   {
     name: "Ullash Ashish Koju",
     position: "Project Manager",
-    photo: "/lovable-uploads/1689aeb1-c868-4e4c-a7d4-161348f1f797.png",
+    photo: "public/img/ullash-ashish-koju.jpg",
     bio: "Managing large-scale projects with a focus on timely delivery and team synergy."
   },
   {
     name: "Manoj Kumar Yadav",
     position: "Project In Charge",
-    photo: "/lovable-uploads/2f4ea1ed-4e54-4d0c-bd2b-1f66941b73bd.png",
+    photo: "public/img/manoj-kumar -yadav.jpg",
     bio: "Oversees all aspects of projects to ensure standards and deadlines are met."
   },
   {
     name: "Dipisha Chettri",
     position: "Civil Engineer",
-    photo: "/lovable-uploads/1d44cd43-363a-4c37-97cb-420b4ea226aa.png",
+    photo: "public/img/dipisha-chettri.jpg",
     bio: "Ensuring structural stability and quality at every stage of construction."
   },
   {
     name: "Anil Devkota",
     position: "Senior Lab Technician",
-    photo: "/lovable-uploads/7ddad583-4725-4e4b-9129-b1f88595dff7.png",
+    photo: "public/img/anil-devkota.jpg",
     bio: "Ensures material testing and analysis meet strict quality requirements."
   },
   {
     name: "Ashish Puri",
     position: "Electrical Overseer",
-    photo: "/lovable-uploads/9bb79485-d9ec-40de-8e7c-53055dad5a81.png",
+    photo: "public/img/ashish-puri.jpg",
     bio: "Expertly manages electrical installations and mechanical systems."
   },
   {
     name: "Bishal Khadgi",
     position: "Vehicle and Equipment In-Charge",
-    photo: "/lovable-uploads/6a29df8b-96a3-46d2-94c8-10626993a9ec.png",
+    photo: "public/img/bishal-khadgi.jpg",
     bio: "Keeps all project vehicles and equipment in optimal working order."
   },
   {
     name: "Ramchandra Gautam",
     position: "Procurement In Charge",
-    photo: "/lovable-uploads/1e533195-ac2d-4c97-be0c-fc50f2658c96.png",
+    photo: "public/img/ramchandra -gautam.jpg",
     bio: "Leads procurement logistics, securing high-quality materials for projects."
   },
   {
     name: "Nagendra Kurmi",
     position: "Surveyor",
-    photo: "/lovable-uploads/358c32cc-c7d5-45ca-8397-34772b456d97.png",
+    photo: "public/img/nagendra-kurmi.jpg",
     bio: "Responsible for land surveying and accurate project measurements."
   },
   {
@@ -101,25 +101,25 @@ const teamMembers = [
   {
     name: "Pabitra Giri",
     position: "Accountant",
-    photo: "/lovable-uploads/9683c9bf-bd68-4188-b336-994d07e18be9.png",
+    photo: "public/img/aishwarya-gurung.jpg",
     bio: "Maintains financial records and assists with budget planning."
   },
   {
     name: "Rojina Raut",
     position: "Accountant",
-    photo: "/lovable-uploads/682be92f-f276-4b66-8c30-9188ce288e12.png",
+    photo: "public/img/rojina.jpg",
     bio: "Handles accounts, payroll, and vendor management."
   },
   {
     name: "Karun Karki",
     position: "",
-    photo: "/lovable-uploads/e4f92905-ce67-4bfe-b5f2-14e83bd0d8be.png",
+    photo: "public/img/karun.jpg",
     bio: ""
   },
   {
     name: "Nawadeep Karki",
     position: "",
-    photo: "/lovable-uploads/e4f92905-ce67-4bfe-b5f2-14e83bd0d8be.png",
+    photo: "public/img/nawadeep.jpg",
     bio: ""
   }
 ];
